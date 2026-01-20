@@ -5,9 +5,10 @@ Recomiendo ver también este video de demostración de la aplicación: https://w
 ------------------------------------------------------------------------------------------
 
 Tecnologías empleadas:
-	• Java (openjdk version "21.0.7" 2025-04-15 LTS)
-	• NetBeans 25
-	• MySQL
+
+• Java (openjdk version "21.0.7" 2025-04-15 LTS)
+• NetBeans 25
+• MySQL
 
 ------------------------------------------------------------------------------------------
 
