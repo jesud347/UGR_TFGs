@@ -186,7 +186,7 @@ FOREIGN KEY (codTFG) REFERENCES tfgs(codTFG)
 ------------------------------------------------------------------------------------------
 
 Tecnologías empleadas
-	•	Java
+	•	Java (openjdk version "21.0.7" 2025-04-15 LTS)
 	•	NetBeans 25
 	•	MySQL
 
