@@ -1,5 +1,15 @@
 Para el uso / prueba del funcionamiento de la aplicación, recomiendo leer hasta el final.
 
+Recomiendo ver también este video de demostración de la aplicación: https://www.youtube.com/watch?v=MoRFO7ZEQfM
+
+------------------------------------------------------------------------------------------
+
+Tecnologías empleadas
+	•	Java (openjdk version "21.0.7" 2025-04-15 LTS)
+	•	NetBeans 25
+	•	MySQL
+
+------------------------------------------------------------------------------------------
 
 Introducción
 
@@ -183,11 +193,3 @@ calificacion_tutor DECIMAL(4,2),
 calificacion_tribunal DECIMAL(4,2),
 FOREIGN KEY (codTFG) REFERENCES tfgs(codTFG)
 
-------------------------------------------------------------------------------------------
-
-Tecnologías empleadas
-	•	Java (openjdk version "21.0.7" 2025-04-15 LTS)
-	•	NetBeans 25
-	•	MySQL
-
-------------------------------------------------------------------------------------------
