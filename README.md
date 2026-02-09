@@ -140,7 +140,7 @@ Esta sección está disponible para todos los usuarios, independientemente de su
 	•	Genera automáticamente un certificado con los datos del estudiante
 
 
-Eso serría todo el funcionamiento que tiene la aplicación, a continuación, verás la estructura de la base de datos:
+Eso sería todo el funcionamiento que tiene la aplicación, a continuación, verás la estructura de la base de datos:
 
 - profesores
 
